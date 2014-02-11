@@ -9,12 +9,13 @@ Product Name: GPA++
 Product Description:
 
 GPA++ is aimed to help student keep his or her school life organized. Have you ever got lost on campus when trying to find a classroom? Forgot a deadline for an important homework? Want to record diagrams or lists on white board? Want to review the tasks you’ve finished? Need to record video or voice for an event but don’t want to sort a bunch of them afterward? GPA++ can help students solve all these problems with just a few touches.
-GPA++ provides a helpful solution for those problems. It has the following features aimed towards easing the academic student life to help you achieve that A+!
-＜/br＞
-● Add classes to keep track of them
-＜/br＞
+GPA++ provides a helpful solution for those problems. It has the following features aimed towards easing the academic student life to help you achieve that A+!  
+
+● Add classes to keep track of them   
+
 ● Add a prioritized to­do list for all your upcoming meetings, exams, homeworks,
-assignments and projects ＜/br＞
+assignments and projects   
+
 ● Notify students the class times and to­do task deadlines ＜/br＞
 ● Find a classroom in the built­in map ＜/br＞
 ● Record audio and video notes during classes using the microphone or the video camera ＜/br＞
