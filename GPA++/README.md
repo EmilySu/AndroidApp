@@ -1,4 +1,4 @@
-AndroidApp
+GPA++ Scheduler App
 ==========
 
 This repository contains the source code for Android Apps
