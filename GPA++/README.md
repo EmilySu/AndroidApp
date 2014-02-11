@@ -16,26 +16,41 @@ GPA++ provides a helpful solution for those problems. It has the following featu
 ● Add a prioritized to­do list for all your upcoming meetings, exams, homeworks,
 assignments and projects   
 
-● Notify students the class times and to­do task deadlines ＜/br＞
-● Find a classroom in the built­in map ＜/br＞
-● Record audio and video notes during classes using the microphone or the video camera ＜/br＞
-● Jot down blackboard lecture notes using the camera ＜/br＞
-● Review previously recorded notes within the app ＜/br＞
+● Notify students the class times and to­do task deadlines   
+
+● Find a classroom in the built­in map   
+
+● Record audio and video notes during classes using the microphone or the video camera   
+
+● Jot down blackboard lecture notes using the camera    
+
+● Review previously recorded notes within the app    
+
 
 Android Features Used:
 
-GPA++ is a standalone Android app that let's users store various information on their academic classes and uses the following Android features:
+GPA++ is a standalone Android app that let's users store various information on their academic classes and uses the following Android features:   
 
-● Hardware Audio (review audio lecture notes)
-● Camera (record visual lecture notes)
-● Location (find classrooms)
-● Network­based Geo location (find classrooms)
-● GPS (find classrooms)
-● Microphone (record audio lecture notes)
-● Compass sensor (find classrooms)
-● Touchscreen (browse the app)
-● Multi­touch Screen (zoom in and out of map for finding classrooms)
-● SQL Lite DB (store classes and to­do tasks information)
+● Hardware Audio (review audio lecture notes)   
+
+● Camera (record visual lecture notes)  
+
+● Location (find classrooms)   
+
+● Network­based Geo location (find classrooms)   
+
+● GPS (find classrooms)   
+
+● Microphone (record audio lecture notes)   
+
+● Compass sensor (find classrooms)   
+
+● Touchscreen (browse the app)   
+
+● Multi­touch Screen (zoom in and out of map for finding classrooms)   
+
+● SQL Lite DB (store classes and to­do tasks information)   
+
 
 ![Alt text]("")
 
