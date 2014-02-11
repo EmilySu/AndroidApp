@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gpa"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.hardware.camera.autofocus" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:name="com.gpa.presentation.DBshare"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" 
+        android:theme="@android:style/Theme.Holo.Light.DarkActionBar" >
+        <activity
+            android:name="com.gpa.presentation.MainActivity"
+            android:label="Your Classes Scheduler"  
+            android:screenOrientation="portrait">
+            
+ 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.ClassDetailsEditActivity"
+            android:label="@string/title_activity_class_details_edit" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.ClassDetailActivity"
+            android:label="@string/title_activity_class_details_edit" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.EditClass"
+            android:label="@string/title_activity_edit_class" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.EditTask"
+            android:label="@string/title_activity_edit_task" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.ClassHistory"
+            android:label="@string/title_activity_class_history" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.AddScheduleActivity"
+            android:label="@string/title_activity_add_schedule" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.TakePhotoActivity"
+            android:label="@string/title_activity_take_photo"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.RecordActivity"
+            android:label="@string/title_activity_record" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.gpa.presentation.NotesDetail"
+            android:label="@string/title_activity_record" android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>
