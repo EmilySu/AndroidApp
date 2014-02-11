@@ -49,10 +49,8 @@ GPA++ is a standalone Android app that let's users store various information on 
 
 ● Multi­touch Screen (zoom in and out of map for finding classrooms)   
 
-● SQL Lite DB (store classes and to­do tasks information)   
+● SQL Lite DB (store classes and to­do tasks information)      
 
-
-![Alt text]("")
 
 1. No classes and task
 ![Alt text](DemoImage/1.png "1")
